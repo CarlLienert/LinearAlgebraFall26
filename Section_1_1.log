@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
 \c@section=\count197
@@ -249,13 +249,17 @@ line 32.
 File: OT1droidsans.fd 2019/06/24 Font definitions for OT1/droidsans.
 )
 LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
-(Font)              scaled to size 12.0pt on input line 32.
+(Font)              scaled to size 10.0pt on input line 32.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box57
 )
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
 (./Section_1_1.aux)
 \openout1 = `Section_1_1.aux'.
 
@@ -293,12 +297,12 @@ LaTeX Font Info:    ... okay on input line 32.
 * \topmargin=0.0pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=0.0pt
-* \marginparsep=10.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -323,52 +327,49 @@ LaTeX Font Info:    ... okay on input line 32.
 \everyMPtoPDFconversion=\toks34
 )
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 10.0pt on input line 36.
 LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
-(Font)              scaled to size 17.28pt on input line 42.
+(Font)              scaled to size 14.4pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 17.28pt on input line 42.
+(Font)              scaled to size 14.4pt on input line 42.
 LaTeX Font Info:    Trying to load font information for TS1+droidsans on input 
 line 44.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/droid/TS1droidsans.fd
 File: TS1droidsans.fd 2019/06/24 Font definitions for TS1/droidsans.
 )
 LaTeX Font Info:    Font shape `TS1/droidsans/m/n' will be
-(Font)              scaled to size 12.0pt on input line 44.
-LaTeX Font Info:    Font shape `OT1/droidsans/m/it' in size <12> not available
-(Font)              Font shape `OT1/droidsans/m/sl' tried instead on input line
- 60.
-LaTeX Font Info:    Font shape `OT1/droidsans/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 60.
+(Font)              scaled to size 10.0pt on input line 44.
+LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
+(Font)              scaled to size 12.0pt on input line 62.
+LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
+(Font)              scaled to size 12.0pt on input line 62.
 
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/droid/a_hyyrer.enc}{/usr/local/texli
-ve/2025/texmf-dist/fonts/enc/dvips/droid/a_atrmj4.enc}{/usr/local/texlive/2025/
-texmf-dist/fonts/enc/dvips/droid/a_es3zal.enc}] (./Section_1_1.aux)
+ve/2025/texmf-dist/fonts/enc/dvips/droid/a_atrmj4.enc}] (./Section_1_1.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4169 strings out of 473190
- 65234 string characters out of 5715801
- 455701 words of memory out of 5000000
- 27352 multiletter control sequences out of 15000+600000
- 565618 words of font info for 49 fonts, out of 8000000 for 9000
+ 4167 strings out of 473190
+ 65187 string characters out of 5715801
+ 455684 words of memory out of 5000000
+ 27353 multiletter control sequences out of 15000+600000
+ 566252 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,307b,171s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,307b,173s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/droidsans/Droi
 dSans-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/d
-roidsans/DroidSans.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender
-/droid/droidsans/DroidSans.pfb>
-Output written on Section_1_1.pdf (1 page, 35439 bytes).
+roidsans/DroidSans.pfb>
+Output written on Section_1_1.pdf (1 page, 25727 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

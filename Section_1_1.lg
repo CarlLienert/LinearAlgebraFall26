@@ -1,8 +1,8 @@
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
 htfcss: cmmi font-style: italic;
 htfcss: cmmib font-style: italic; font-weight: bold;
-htfcss: cmbsy font-weight: bold;
-htfcss: cmbsy font-weight: bold;
-htfcss: cmbsy font-weight: bold;
 File: Section_1_1.html
 File: Section_1_1.css
 File: Section_1_1.tmp
@@ -133,7 +133,6 @@ Css: div.maketitle{ margin-bottom: 2em; }
 Css: div.author, div.date {text-align:center;}
 Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
 Css: div.author{white-space: nowrap;}
-Font_Size: 12
 Css: div.abstract p {margin-left:5%; margin-right:5%;}
 Css: div.abstract {width:100%;}
 Css: .abstracttitle{text-align:center;margin-bottom:1em;}
@@ -165,27 +164,26 @@ Css: .dashuline-math {border-bottom: 1px dashed black;}
 Css: .dotuline-math {border-bottom: 1px dotted black;}
 tex4ht.c error: 21
 --- characters ---
-Font("cmr","12","12","100")
-Font("cmbsy","10","10","120")
-Font("cmbsy","8","8","100")
-Font("cmbsy","6","6","100")
-Font("cmex","10","10","120")
-Font("cmex","8","8","100")
-Font("cmex","7","7","85")
-Font("msam","10","10","120")
-Font("msam","10","10","80")
-Font("msam","7","7","85")
-Font("msbm","10","10","120")
-Font("msbm","10","10","80")
-Font("msbm","7","7","85")
-Font("cmr","8","8","100")
-Font("cmr","6","6","100")
-Font("cmmi","12","12","100")
-Font("cmmi","8","8","100")
-Font("cmmi","6","6","100")
-Font("cmsy","10","10","120")
-Font("cmsy","8","8","100")
-Font("cmsy","6","6","100")
-Font("DroidSans-OT","1","10","120")
-Font("DroidSans-Bold-OT","1","10","120")
-Font("DroidSans-OT1-Slanted","","10","120")
+Font("cmex","10","10","100")
+Font("cmr","5","5","100")
+Font("cmr","7","7","100")
+Font("cmr","10","10","100")
+Font("cmmi","5","5","100")
+Font("cmmi","7","7","100")
+Font("cmmi","10","10","100")
+Font("cmsy","5","5","100")
+Font("cmsy","7","7","100")
+Font("cmsy","10","10","100")
+Font("cmbsy","10","10","100")
+Font("cmbsy","7","7","100")
+Font("cmbsy","5","5","100")
+Font("cmex","7","7","100")
+Font("cmex","7","7","71")
+Font("msam","10","10","100")
+Font("msam","7","7","100")
+Font("msam","5","5","100")
+Font("msbm","10","10","100")
+Font("msbm","7","7","100")
+Font("msbm","5","5","100")
+Font("DroidSans-OT","1","10","100")
+Font("DroidSans-Bold-OT","1","10","100")
