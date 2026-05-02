@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,12 +291,12 @@ LaTeX Font Info:    ... okay on input line 32.
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=469.75499pt
-* \textheight=650.43pt
+* \textheight=722.7pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
-* \topmargin=0.0pt
-* \headheight=0.0pt
-* \headsep=0.0pt
+* \topmargin=-25.0pt
+* \headheight=-10.0pt
+* \headsep=-10.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=0.0pt
@@ -326,26 +326,43 @@ LaTeX Font Info:    ... okay on input line 32.
 \makeMPintoPDFobject=\count293
 \everyMPtoPDFconversion=\toks34
 )
-LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 10.0pt on input line 36.
 LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
-(Font)              scaled to size 14.4pt on input line 42.
+(Font)              scaled to size 17.28pt on input line 35.
+LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
+(Font)              scaled to size 12.0pt on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
+(Font)              scaled to size 14.4pt on input line 41.
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 14.4pt on input line 42.
+(Font)              scaled to size 14.4pt on input line 41.
 LaTeX Font Info:    Trying to load font information for TS1+droidsans on input 
-line 44.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/droid/TS1droidsans.fd
+line 43.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/droid/TS1droidsans.fd
 File: TS1droidsans.fd 2019/06/24 Font definitions for TS1/droidsans.
 )
 LaTeX Font Info:    Font shape `TS1/droidsans/m/n' will be
-(Font)              scaled to size 10.0pt on input line 44.
-LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
-(Font)              scaled to size 12.0pt on input line 62.
+(Font)              scaled to size 10.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 12.0pt on input line 62.
+(Font)              scaled to size 12.0pt on input line 61.
 
 
-[1
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+ [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/droid/a_hyyrer.enc}{/usr/local/texli
@@ -356,17 +373,17 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4167 strings out of 473190
- 65187 string characters out of 5715801
- 455684 words of memory out of 5000000
- 27353 multiletter control sequences out of 15000+600000
- 566252 words of font info for 49 fonts, out of 8000000 for 9000
+ 4219 strings out of 473190
+ 65985 string characters out of 5715801
+ 456698 words of memory out of 5000000
+ 27385 multiletter control sequences out of 15000+600000
+ 570883 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,307b,173s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,307b,221s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/droidsans/Droi
 dSans-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/d
 roidsans/DroidSans.pfb>
-Output written on Section_1_1.pdf (1 page, 25727 bytes).
+Output written on Section_1_1.pdf (1 page, 25025 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
