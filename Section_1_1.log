@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -324,18 +324,13 @@ LaTeX Font Info:    ... okay on input line 32.
 )
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
 (Font)              scaled to size 12.0pt on input line 36.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
 LaTeX Font Info:    Font shape `OT1/droidsans/m/n' will be
 (Font)              scaled to size 17.28pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
 (Font)              scaled to size 17.28pt on input line 42.
 LaTeX Font Info:    Trying to load font information for TS1+droidsans on input 
 line 44.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/droid/TS1droidsans.fd
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/droid/TS1droidsans.fd
 File: TS1droidsans.fd 2019/06/24 Font definitions for TS1/droidsans.
 )
 LaTeX Font Info:    Font shape `TS1/droidsans/m/n' will be
@@ -365,12 +360,12 @@ Here is how much of TeX's memory you used:
  27352 multiletter control sequences out of 15000+600000
  565618 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,307b,172s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,307b,171s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/droidsans/Droi
 dSans-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/d
 roidsans/DroidSans.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender
 /droid/droidsans/DroidSans.pfb>
-Output written on Section_1_1.pdf (1 page, 37247 bytes).
+Output written on Section_1_1.pdf (1 page, 35439 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
