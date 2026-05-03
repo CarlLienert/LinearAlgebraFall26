@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 MAY 2026 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,8 +355,6 @@ File: TS1droidsans.fd 2019/06/24 Font definitions for TS1/droidsans.
 )
 LaTeX Font Info:    Font shape `TS1/droidsans/m/n' will be
 (Font)              scaled to size 10.0pt on input line 43.
-LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
-(Font)              scaled to size 12.0pt on input line 61.
 
 
 
@@ -366,7 +364,16 @@ Overfull \vbox (10.0pt too high) has occurred while \output is active []
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/droid/a_hyyrer.enc}{/usr/local/texli
-ve/2025/texmf-dist/fonts/enc/dvips/droid/a_atrmj4.enc}] (./Section_1_1.aux)
+ve/2025/texmf-dist/fonts/enc/dvips/droid/a_atrmj4.enc}]
+LaTeX Font Info:    Font shape `OT1/droidsans/b/n' will be
+(Font)              scaled to size 12.0pt on input line 63.
+
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+ [2]
+(./Section_1_1.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -375,7 +382,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  4219 strings out of 473190
  65985 string characters out of 5715801
- 456698 words of memory out of 5000000
+ 454698 words of memory out of 5000000
  27385 multiletter control sequences out of 15000+600000
  570883 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -383,10 +390,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/droidsans/Droi
 dSans-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ascender/droid/d
 roidsans/DroidSans.pfb>
-Output written on Section_1_1.pdf (1 page, 25025 bytes).
+Output written on Section_1_1.pdf (2 pages, 25518 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 26 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
